@@ -1,1 +1,1 @@
-Angular application that demonstrates a side by side comparison of Template driven forms and Reactive forms.
+Angular application that demonstrates a side by side comparison of Template driven forms and Reactive forms using user input
